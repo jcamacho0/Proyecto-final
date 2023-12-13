@@ -25,7 +25,7 @@ public class Proyectofinal10 {
         Baile baile = new Baile();
 
         //metodo para ingresar al programa
-        //secretaria.ingresar();
+        secretaria.ingresar();
 
         //crear la ventana principal
         JFrame frame = new JFrame("Programa de Resrvas");
